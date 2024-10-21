@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=nome\ func1\ func2
+comment1.target=Empresa(java.lang.String,\ FuncionarioCaixa,\ FuncionarioCaixa)
+comment10.params=
+comment10.target=void\ imprimeInfo()
+comment2.params=nome
+comment2.target=Empresa(java.lang.String)
+comment3.params=
+comment3.target=Empresa()
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=FuncionarioCaixa\ func1()
+comment7.params=func1
+comment7.target=void\ setFunc1(FuncionarioCaixa)
+comment8.params=
+comment8.target=FuncionarioCaixa\ func2()
+comment9.params=func2
+comment9.target=void\ setFunc2(FuncionarioCaixa)
+numComments=11

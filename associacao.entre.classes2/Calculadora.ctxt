@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=cor
+comment1.target=Calculadora(java.lang.String)
+comment10.params=a
+comment10.target=long\ elevadoAoQuadrado(int)
+comment11.params=a
+comment11.target=long\ elevadoAoCubo(int)
+comment12.params=
+comment12.target=void\ imprimeInfo()
+comment2.params=
+comment2.target=double\ getMemoria()
+comment3.params=memoria
+comment3.target=void\ setMemoria(double)
+comment4.params=
+comment4.target=java.lang.String\ getCor()
+comment5.params=cor
+comment5.target=void\ setCor(java.lang.String)
+comment6.params=a\ b
+comment6.target=double\ soma(double,\ double)
+comment7.params=a\ b
+comment7.target=double\ subtrai(double,\ double)
+comment8.params=a\ b
+comment8.target=double\ multiplica(double,\ double)
+comment9.params=a\ b
+comment9.target=double\ divide(double,\ double)
+numComments=13
