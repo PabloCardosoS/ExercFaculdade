@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Nadador
+comment1.params=nome\ idade\ categoria
+comment1.target=Nadador(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCategoria()
+comment3.params=categoria
+comment3.target=void\ setCategoria(java.lang.String)
+comment4.params=
+comment4.target=void\ imprimeInfo()
+numComments=5

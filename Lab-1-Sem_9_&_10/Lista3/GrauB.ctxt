@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GrauB
+comment1.params=dataInicio\ dataFim\ notaAtividades\ notaSeminario\ notaParticipacao
+comment1.target=GrauB(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=GrauB()
+comment3.params=
+comment3.target=double\ getNotaAtividades()
+comment4.params=notaAtividades
+comment4.target=void\ setNotaAtividades(double)
+comment5.params=
+comment5.target=double\ getNotaSeminario()
+comment6.params=notaSeminario
+comment6.target=void\ setNotaSeminario(double)
+comment7.params=
+comment7.target=double\ getNotaParticipacao()
+comment8.params=notaParticipacao
+comment8.target=void\ setNotaParticipacao(double)
+comment9.params=
+comment9.target=double\ calculaNotaFinalGrau()
+numComments=11

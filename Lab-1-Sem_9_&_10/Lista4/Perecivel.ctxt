@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Perecivel
+comment1.params=nome\ descricao\ valor\ dataValidade
+comment1.target=Perecivel(java.lang.String,\ java.lang.String,\ double,\ Data)
+comment2.params=
+comment2.target=Data\ getDataValidade()
+comment3.params=dataValidade
+comment3.target=void\ setDataValidade(Data)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

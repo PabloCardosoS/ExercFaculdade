@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cadeira
+comment1.params=cor
+comment1.target=Cadeira(Cor)
+comment2.params=
+comment2.target=Cor\ getCor()
+comment3.params=cor
+comment3.target=void\ setCor(Cor)
+comment4.params=
+comment4.target=Aluno\ getAluno()
+comment5.params=aluno
+comment5.target=void\ setAluno(Aluno)
+comment6.params=aluno
+comment6.target=void\ ocupar(Aluno)
+comment7.params=
+comment7.target=void\ desocupar()
+comment8.params=
+comment8.target=boolean\ isOcupada()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

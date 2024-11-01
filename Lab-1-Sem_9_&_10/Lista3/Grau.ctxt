@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Grau
+comment1.params=dataInicio\ dataFim
+comment1.target=Grau(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Grau()
+comment3.params=
+comment3.target=java.lang.String\ getDataInicio()
+comment4.params=dataInicio
+comment4.target=void\ setDataInicio(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDataFim()
+comment6.params=dataFim
+comment6.target=void\ setDataFim(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
